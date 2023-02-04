@@ -1,7 +1,9 @@
 # DotCom Cafe
 
 
-[Breakfast](#breakfast) | [Lunch](#lunch) | [Dinner](#Dinner)| [Sweet](#sweet) | ...
+
+[Breakfast](#breakfast) | [Lunch](#lunch) | [Dinner](#Dinner) | [Beverages](#beverages) | [Sweet](#sweet) | ...
+
 
 
  
@@ -23,6 +25,7 @@
 | Gasohol E85 | 32       |
 
 ถ้าอยากรู้วิธีการทำเป็นตารางเพิ่มเติม เช่น `|:---` และ `---:|` คืออะไรแล้วใช้ยังไง สามารถดูข้อมูลเพิ่มเติมได้ที่ [Organizing information with tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)   
+
 
 ## Breakfast
 
@@ -50,6 +53,16 @@
 | Tom Yum Kung Soup With Coconut Milk |    100   |
 | Wagyu Steak  (400g)                 |    400   |
 
+## Beverages
+
+| Item | Price (Baht) |
+|------|--------------|
+| Water | 10 |
+| Soda | 15 |
+| Tea | 12 |
+| Coffee | 25 |
+| Juice | 15 |
+
 ## Sweet
 
 | **Menu**  | **Price (THB)** |
@@ -70,6 +83,6 @@
 | Preawpan | Breakfast | [@Tezigudo](https://github.com/Tezigudo) |
 | Navathon | Lunch | @SanKrub |
 | Parichaya | Dinner | [@crparichaya](https://github.com/crparichaya) |
+| Chaitavat | Beverages | [@SStepz](https://github.com/SStepz) |
 | Ritha | Dessert | [@sanzanbeepbeep](https://github.com/sanzanbeepbeep)|
-
 
