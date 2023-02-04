@@ -1,6 +1,5 @@
 # KU Cafe Menu
 
-
 ## Breakfast
 
 | Item               | Price(THB) |
@@ -10,6 +9,11 @@
 | Double cheeseburger    | 80.00 |
 | Ham                    | 32.00 |
 
+
+## Lunch
+
+## Dinner
+=======
 ## Lunch 
 | Item | Price |
 |------|-------|
@@ -28,8 +32,16 @@
 | Tom Yum Kung Soup With Coconut Milk |    100   |
 | Wagyu Steak  (400g)                 |    400   |
 
+
 ## Night Food
 
+| Food         | Price   |
+| :----------- | ------- |
+| Pizza        | $10-$20 |
+| Tacos        | $5-$15  |
+| Ramen        | $10-$20 |
+| Chinese food | $10-$30 |
+| Sandwiches   | $5-$15  |
 
 ## Beverages
 
