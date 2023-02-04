@@ -6,15 +6,7 @@
 
  
 
-## Night menu
 
-| Food         | Price   |
-| :----------- | ------- |
-| Pizza        | $10-$20 |
-| Tacos        | $5-$15  |
-| Ramen        | $10-$20 |
-| Chinese food | $10-$30 |
-| Sandwiches   | $5-$15  |
 
 
 ## Breakfast
@@ -63,13 +55,22 @@
 | Bingsu(S)| 79 |
 | Bingsu(L)| 129 |
 
+## Night menu
+
+| Food         | Price   |
+| :----------- | ------- |
+| Pizza        | $10-$20 |
+| Tacos        | $5-$15  |
+| Ramen        | $10-$20 |
+| Chinese food | $10-$30 |
+| Sandwiches   | $5-$15  |
+
 
 ## About Us
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Your name | Your menu | @your_github_id |
 | Preawpan | Breakfast | [@Tezigudo](https://github.com/Tezigudo) |
-| Navathon | Lunch | @SanKrub |
+| Navathon | Lunch | [@SanKrub](https://github.com/Sankrub) |
 | Parichaya | Dinner | [@crparichaya](https://github.com/crparichaya) |
 | Chaitavat | Beverages | [@SStepz](https://github.com/SStepz) |
 | Ritha | Dessert | [@sanzanbeepbeep](https://github.com/sanzanbeepbeep)|
