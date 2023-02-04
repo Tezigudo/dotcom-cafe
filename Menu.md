@@ -11,7 +11,13 @@
 
 
 ## Dinner
-
+| Menu                                | Price    |
+|:------------------------------------|----------|
+| Chicken Hawaiian (size L)           |    220   |
+| Thai Green Chicken Curry            |    100   |
+| The Waterfall Beef Salad            |    85    |
+| Tom Yum Kung Soup With Coconut Milk |    100   |
+| Wagyu Steak  (400g)                 |    400   |
 
 ## Night Food
 
