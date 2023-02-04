@@ -18,6 +18,14 @@
 
 ## Beverages
 
+| Item | Price (Baht) |
+|------|--------------|
+| Water | 10 |
+| Soda | 15 |
+| Tea | 12 |
+| Coffee | 25 |
+| Juice | 15 |
+
 ## Sweet
 
 ---
