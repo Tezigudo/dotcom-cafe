@@ -1,10 +1,9 @@
 # DotCom Cafe
 
-[Breakfast](#breakfast) | [Lunch](#lunch) | [Dinner](#Dinner) | [Beverages](#beverages) | [Sweet](#sweet) |  [Night-food](#night-menu)
 
+[Breakfast](#breakfast) | [Lunch](#lunch) | [Dinner](#Dinner) | [Beverages](#beverages) | [Sweet](#sweet) |  [Night-food](#night-menu) | [Snack](#snack)
+[AboutUs](#About-us)
 
-
- 
 
 
 
@@ -65,6 +64,14 @@
 | Chinese food | $10-$30 |
 | Sandwiches   | $5-$15  |
 
+## Snack
+| Item                 | Price(THB) |
+|:---------------------|------------|
+| Lae                  | 20         |
+| M&M                  | 5          |
+| Chocolate Bar        | 5          |
+| ฟริท-ซี พลัส           | 5          |
+
 
 ## About Us
 | Name      | Role      | Github          |
@@ -74,4 +81,5 @@
 | Parichaya | Dinner | [@crparichaya](https://github.com/crparichaya) |
 | Chaitavat | Beverages | [@SStepz](https://github.com/SStepz) |
 | Ritha | Dessert | [@sanzanbeepbeep](https://github.com/sanzanbeepbeep)|
+| Yanothai Chaitawat | Snack | [@VeryHardBit](https://github.com/VeryHardBit) |
 | Katid | Night menu | [@katisd](https://github.com/katisd) |
