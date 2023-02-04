@@ -3,9 +3,12 @@
 
 ## Breakfast
 
-    Item                           Price
-    Fried Grasshoppers (terrible)  -10
-    (use proper Markdown formatting, not literal text like this)
+| Item               | Price(THB) |
+|:-----------------------|:----------:|
+| Breakfast Set          | 100.00|
+| Cheese                 | 30.00 |
+| Double cheeseburger    | 80.00 |
+| Ham                    | 32.00 |
 
 ## Lunch 
 
