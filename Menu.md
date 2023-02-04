@@ -43,7 +43,7 @@
 
 ## Sweet
 
-| **Menu**  | **Price** |
+| **Menu**  | **Price (THB)** |
 | ------------- | :-------------: |
 | Ice Cream  | 25  |
 | Panna Cotta | 49 |
