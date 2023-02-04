@@ -20,6 +20,13 @@
 
 ## Sweet
 
----
+| **Menu**  | **Price** |
+| ------------- | :-------------: |
+| Ice Cream  | 25  |
+| Panna Cotta | 49 |
+| Honey Toast with Ice Cream| 79 |
+| Bingsu(S)| 79 |
+| Bingsu(L)| 129 |
+
 
 We accept PromptPay, KUPay, LinePay, AliPay, and cash. Sorry, no credit cards.
