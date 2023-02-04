@@ -1,7 +1,8 @@
 # DotCom Cafe
 
 
-[Breakfast](#breakfast) | [Lunch](#lunch) | [Dinner](#Dinner) | [Beverages](#beverages) | [Sweet](#sweet) |  [Night-food](#night-menu) | [Snack](#snack)
+[Breakfast](#breakfast) | [Lunch](#lunch) | [Dinner](#dinner) | [Beverages](#beverages) | [Sweet](#sweet) |  [Night-food](#night-menu) | [Snack](#snack)
+
 [AboutUs](#About-us)
 
 
@@ -81,5 +82,5 @@
 | Parichaya | Dinner | [@crparichaya](https://github.com/crparichaya) |
 | Chaitavat | Beverages | [@SStepz](https://github.com/SStepz) |
 | Ritha | Dessert | [@sanzanbeepbeep](https://github.com/sanzanbeepbeep)|
-| Yanothai Chaitawat | Snack | [@VeryHardBit](https://github.com/VeryHardBit) |
+| Yanothai | Snack | [@VeryHardBit](https://github.com/VeryHardBit) |
 | Katid | Night menu | [@katisd](https://github.com/katisd) |
