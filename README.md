@@ -1,14 +1,11 @@
 # DotCom Cafe
 
-Section1 | Section2 | [Dinner](#Dinner)| ...
-=======
-[Breakfast](#breakfast) | [Dinner](#Dinner)| [Sweet](#sweet) | ...
+
+[Breakfast](#breakfast) | [Lunch](#lunch) | [Dinner](#Dinner)| [Sweet](#sweet) | ...
+
 
  
-**TODO**: แก้เนื้อหาตรง "Section1 | Section2 ..." ให้เป็น hyperlinks ที่พาไปยังแต่ละส่วนของเมนูโดยมีแค่ **บรรทัดเดียว**   
-**TODO**: และอย่าลืมที่จะลบ TODO lines ทั้งหมดออกด้วย  
 
-นี้คือตัวอย่างของวิธีการที่ใส่ hyperlinks เพื่อไปในแต่ละส่วน(Heading)ที่เราต้องการ  
 
 [Drive-Thru](#Drive-Thru) | [AboutUs](#About-us)
 
@@ -35,6 +32,14 @@ Section1 | Section2 | [Dinner](#Dinner)| ...
 | Cheese              |   30.00    |
 | Double cheeseburger |   80.00    |
 | Ham                 |   32.00    |
+
+## Lunch 
+| Item | Price |
+|------|-------|
+| Grilled Chicken Sandwich | $10 |
+| Caesar Salad with Shrimp | $12 |
+| Veggie Burger with Fries | $9 |
+| Spaghetti Carbonara | $13 |
 
 ## Dinner
 | Menu                                | Price    |
@@ -63,6 +68,8 @@ Section1 | Section2 | [Dinner](#Dinner)| ...
 |:----------|-----------|-----------------|
 | Your name | Your menu | @your_github_id |
 | Preawpan | Breakfast | [@Tezigudo](https://github.com/Tezigudo) |
+| Navathon | Lunch | @SanKrub |
 | Parichaya | Dinner | [@crparichaya](https://github.com/crparichaya) |
 | Ritha | Dessert | [@sanzanbeepbeep](https://github.com/sanzanbeepbeep)|
+
 
