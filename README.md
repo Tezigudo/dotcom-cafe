@@ -1,6 +1,6 @@
 # DotCom Cafe
 
-Section1 | Section2 | Section3 | ...
+Section1 | Section2 | Section3 | Section4 | [Beverages](#beverages) | ...
  
 **TODO**: แก้เนื้อหาตรง "Section1 | Section2 ..." ให้เป็น hyperlinks ที่พาไปยังแต่ละส่วนของเมนูโดยมีแค่ **บรรทัดเดียว**   
 **TODO**: และอย่าลืมที่จะลบ TODO lines ทั้งหมดออกด้วย  
@@ -24,11 +24,21 @@ Section1 | Section2 | Section3 | ...
 
 ถ้าอยากรู้วิธีการทำเป็นตารางเพิ่มเติม เช่น `|:---` และ `---:|` คืออะไรแล้วใช้ยังไง สามารถดูข้อมูลเพิ่มเติมได้ที่ [Organizing information with tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)   
 
+## Beverages
+
+| Item | Price (Baht) |
+|------|--------------|
+| Water | 10 |
+| Soda | 15 |
+| Tea | 12 |
+| Coffee | 25 |
+| Juice | 15 |
+
 ## About Us
   
 **TODO**: ให้แต่ละคนใส่ชื่อของตัวเองเข้าไปในตาราง **ห้าม** ให้ใครคนใดคนหนึ่งใส่ชื่อของทุกคน หรือใส่ชื่อของคนอื่นแทน (Role คือหมวดหมู่อาหารที่ตัวเองเป็นคนรับผิดชอบ)
 
 | Name      | Role      | Github          |
 |:----------|-----------|-----------------|
-| Your name | Your menu | @your_github_id |
+| Chaitavat | Beverages | [@SStepz](https://github.com/SStepz) |
 
