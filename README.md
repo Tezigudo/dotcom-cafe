@@ -1,6 +1,8 @@
 # DotCom Cafe
 
-[Breakfast](#breakfast) | Section2 | [Sweet](#sweet) | ...
+Section1 | Section2 | [Dinner](#Dinner)| ...
+=======
+[Breakfast](#breakfast) | [Dinner](#Dinner)| [Sweet](#sweet) | ...
 
  
 **TODO**: แก้เนื้อหาตรง "Section1 | Section2 ..." ให้เป็น hyperlinks ที่พาไปยังแต่ละส่วนของเมนูโดยมีแค่ **บรรทัดเดียว**   
@@ -25,7 +27,6 @@
 
 ถ้าอยากรู้วิธีการทำเป็นตารางเพิ่มเติม เช่น `|:---` และ `---:|` คืออะไรแล้วใช้ยังไง สามารถดูข้อมูลเพิ่มเติมได้ที่ [Organizing information with tables](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)   
 
-
 ## Breakfast
 
 | Item                | Price(THB) |
@@ -34,6 +35,15 @@
 | Cheese              |   30.00    |
 | Double cheeseburger |   80.00    |
 | Ham                 |   32.00    |
+
+## Dinner
+| Menu                                | Price    |
+|:------------------------------------|----------|
+| Chicken Hawaiian (size L)           |    220   |
+| Thai Green Chicken Curry            |    100   |
+| The Waterfall Beef Salad            |    85    |
+| Tom Yum Kung Soup With Coconut Milk |    100   |
+| Wagyu Steak  (400g)                 |    400   |
 
 ## Sweet
 
@@ -53,6 +63,6 @@
 |:----------|-----------|-----------------|
 | Your name | Your menu | @your_github_id |
 | Preawpan | Breakfast | [@Tezigudo](https://github.com/Tezigudo) |
+| Parichaya | Dinner | [@crparichaya](https://github.com/crparichaya) |
 | Ritha | Dessert | [@sanzanbeepbeep](https://github.com/sanzanbeepbeep)|
-
 
